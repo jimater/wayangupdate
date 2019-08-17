@@ -1,9 +1,21 @@
 <ASX version="3.0" bannerbar="fixed">
 
 <ENTRY>
-<TITLE>Radio Istana FM Bojonegoro</TITLE>
-<ABSTRACT>Kamis, 20:00 WIB</ABSTRACT>
+<TITLE>Idola FM Semarang</TITLE>
+<ABSTRACT>Minggu, 21:00 WIB</ABSTRACT>
+<REF HREF="http://server.radioidola.com:8888/idolafm" />
+</ENTRY>
+
+<ENTRY>
+<TITLE>Istana FM Bojonegoro</TITLE>
+<ABSTRACT>Sabtu, 20:00 WIB</ABSTRACT>
 <REF HREF="http://128.199.94.211:8000/istana" />
+</ENTRY>
+
+<ENTRY>
+<TITLE>Pradya Suara FM Tuban</TITLE>
+<ABSTRACT>Sabtu, 21:00 WIB</ABSTRACT>
+<REF HREF="http://pu.klikhost.com:8012/stream" />
 </ENTRY>
 
 </ASX>
